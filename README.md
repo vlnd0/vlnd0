@@ -43,9 +43,8 @@ while (dev.isAlive) {
 ### Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=29e9ea)](https://t.me/vlnd0)
-[![GMail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:vlnd0@pm.me)
+[![GMail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:arv.danilov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-white.svg?&style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/vlnd0/)
-[![Calendly](https://img.shields.io/badge/calendly%20-white.svg?&style=for-the-badge&logo=googlecalendar&logoColor=%230077B5)](https://calendly.com/vlnd0/30min)
 
 
 <!-- ### My GitHub stats 📈
